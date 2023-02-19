@@ -1,7 +1,3 @@
-# Demo
+# Magia Prieta
 
-Description lol
-
-##subheader
-
-watch tutorial on Youtube
+Landing page de descarga de Magia Prieta
